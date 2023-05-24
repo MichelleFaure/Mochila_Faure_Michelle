@@ -1,0 +1,10 @@
+LISTA
+
+-Clonar un repositorio existente: $ git clone link
+-Crear un nuevo repositorio local: $ git init
+-Agregar idenidad: git config user.name "nombre usuario"
+-Agregar e-mail: git config user.email "email"
+- Apunta al repositorio remoto: git remote add origin http://....
+- Enviar cambios al repositorio remoto: git push origin main
+-Descargar cambios que existen en el repositorio remoto: git pull
+
